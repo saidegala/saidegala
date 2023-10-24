@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-- 👨‍💻 All of my projects are available at [https://codegrills.in](https://codegrills.in)
+- 👨‍💻 All of my projects are available at [MY_PROJECTS](https://github.com/saidegala/PROJECTS)
 
 - 📝 I regularly write articles on [blog.codegrills.in](blog.codegrills.in)
 
