@@ -1,4 +1,3 @@
-[![MasterHead](https://imgs.search.brave.com/tDVuIciVMeyZ195wMxCjsjIXJayJ1yJis-M8feZ_S7E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kYXRh/c3BhY2VhY2FkZW15/LmNvbS9ibG9nL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIyLzAx/L1RoZS1jdXJyZW50/LWN5YmVyLXNlY3Vy/aXR5LWFuZC1kYXRh/LXByb3RlY3Rpb24t/bGF3cy5qcGVn)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Sai Degala </h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
