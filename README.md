@@ -4,17 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codegrills&label=Profile%20views&color=0e75b6&style=flat" alt="codegrills" /> </p>
 
-<p align="left"> <a href="https://twitter.com/codegrills" target="blank"><img src="https://img.shields.io/twitter/follow/codegrills?logo=twitter&style=for-the-badge" alt="codegrills" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
 - 👨‍💻 All of my projects are available at [MY_PROJECTS](https://github.com/saidegala/PROJECTS)
 
-- 📝 I regularly write articles on [blog.codegrills.in](blog.codegrills.in)
-
 - 💬 Ask me about **Cyber Security,Ethical Hacking, Bug Hunting**
 
-- 📫 How to reach me **codegrills@gmail.com**
+- 📫 How to reach me **saidegala321@gmail.com**
 
 - ⚡ Fun fact **I Think i am Funny**
 
